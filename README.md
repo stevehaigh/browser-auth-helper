@@ -23,7 +23,7 @@ A Python application that automates the process of capturing authentication data
 
 1. **Clone or download the project:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/stevehaigh/browser-auth-helper.git
    cd browser-auth-helper
    ```
 
@@ -241,7 +241,13 @@ Contributions are welcome! Please consider:
 
 ## 📄 License
 
-This project is intended for educational and legitimate testing purposes. Users are responsible for complying with website terms of service and applicable laws.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### MIT License Summary
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
+**Important**: This project is intended for educational and legitimate testing purposes. Users are responsible for complying with website terms of service and applicable laws.
 
 ## 🔗 Dependencies
 
